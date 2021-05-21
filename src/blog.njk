@@ -5,6 +5,5 @@ permalink: /blog/
 
 <h1>Blog</h1>
 
-{% set postslist = (collections.posts or [] )%}
-{%if postslist.length  === 0%}<h3>No Posts Found...</h3>{%endif%}
+{% set postslist = collections.posts%}
 {% include "bloglist.njk" %}
