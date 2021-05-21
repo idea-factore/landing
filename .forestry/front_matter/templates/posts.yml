@@ -1,0 +1,36 @@
+---
+label: Posts
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: datetime
+  type: datetime
+  label: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: post
+  hidden: true
+pages:
+- posts/test-blog-post.md
