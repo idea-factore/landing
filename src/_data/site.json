@@ -1,17 +1,17 @@
 {
-  "baseURL": "https://awesome11ty.ttntm.me",
-  "author": "AWE.SOME",
-  "description": "AWE.SOMEty - A Landing Page Template for 11ty",
-  "title": "AWE.SOMEty - A Landing Page Template for 11ty",
+  "baseURL": "https://idea-factory.co",
+  "author": "Ryan Snyder",
+  "description": "The Kickstarter of the crypto world, Idea Factory is an open, Sybil resistant market for Ideas focused on promoting the creation of ideas and Communities!",
+  "title": "Idea Factory - A decentralized marketplace for ideas",
   "language": "en",
   "social": [
     {
       "title": "Twitter",
-      "url": "https://twitter.com/#"
+      "url": "https://twitter.com/IdeafactoryIdea"
     },
     {
-      "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "title": "Discord",
+      "url": "https://discord.com/invite/rv9sJxSuWs"
     }
   ]
 }

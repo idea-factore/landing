@@ -1,32 +1,32 @@
 [
   {
-    "title": "AWE.SOME Feature One",
-    "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Inclusive",
+    "icon": "fas fa-globe-americas",
+    "content": "Unlike normal VC and investing companies anyone, regardless of capital or experience, can invest in Ideas"
   },
   {
-    "title": "AWE.SOME Feature Two",
-    "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Community Governance",
+    "icon": "fas fa-gavel",
+    "content": "Idea Factory is driven by our governance token, called VOTE, which allows community members to vote on which Idea proposals to accept, as well as which Ideas should receive funding, and how rewards are distributed"
   },
   {
-    "title": "AWE.SOME Feature Three",
-    "icon": "icon3.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Unique Token for each Idea",
+    "icon": "fab fa-ethereum",
+    "content": "Every Idea that makes it passed the proposal stage, has it's own token with a name and icon decided by the creator. When a user provides funds to that Idea, they get an equlivalent amount of tokens representing that amount"
   },
   {
-    "title": "AWE.SOME Feature Four",
-    "icon": "icon4.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Community Contributions",
+    "icon": "fas fa-hands-helping",
+    "content": "Not only can you provide monetary contributions to an Idea, but you can provide contributes such as advice, graphic design, coding, content creation and more! If the funders of the Idea think that your contribution provided value to the Idea, then you get rewarded!"
   },
   {
-    "title": "AWE.SOME Feature Five",
-    "icon": "icon5.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Low gas fees",
+    "icon": "fas fa-gas-pump",
+    "content": "Idea Factory leverages Polygon (MATIC), to ensure that gas fees are as low as possible for our users!"
   },
   {
-    "title": "AWE.SOME Feature Six",
-    "icon": "icon6.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Idea Pools",
+    "icon": "fas fa-box-open",
+    "content": "As well as funding an individual idea, you can also fund an Idea Pool! An Idea Pool is a pool of ideas that are meant to solve a specific problem. For example, someone could create a pool called \"L2 Solutions\", in order to try to find a solution to that problem"
   }
 ]
