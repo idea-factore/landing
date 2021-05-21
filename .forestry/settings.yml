@@ -8,8 +8,9 @@ sections:
   path: src/posts
   label: posts
   create: documents
-  match: "**/*"
-  exclude: posts.json
+  match: "*.md"
+  templates:
+  - posts
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
