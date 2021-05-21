@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Privacy Policy for Idea Factory | WIP
 description: Privacy Statement
 layout: page.njk
 ---

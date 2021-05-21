@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Legal Terms for Idea Factory | WIP
 description: Information according to whatever legal requirements apply.
 layout: page.njk
 ---
