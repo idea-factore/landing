@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+- new content
 layout: post
 title: Test Blog Post
 description: A random blog post to make sure stuff works
