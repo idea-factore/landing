@@ -32,3 +32,5 @@ fields:
   label: layout
   default: post
   hidden: true
+pages:
+- posts/test-blog-post.md
