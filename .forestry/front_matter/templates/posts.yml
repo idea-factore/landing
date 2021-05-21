@@ -33,4 +33,4 @@ fields:
   default: post
   hidden: true
 pages:
-- posts/test-blog-post.md
+- src/posts/test-blog-post.md
