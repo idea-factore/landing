@@ -7,7 +7,6 @@ module.exports = function (eleventyConfig) {
   // PLUGINS
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.setDataDeepMerge(true);
-  eleventyConfig.addLayoutAlias("post", "./src/_layouts/post.njk");
   // shortcode to render markdown from string => {{ STRING | markdown | safe }}
   eleventyConfig.addFilter('markdown', function(value) {
     let markdown = require('markdown-it')({
