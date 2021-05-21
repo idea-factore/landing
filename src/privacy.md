@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+description: Privacy Statement
 layout: page.njk
 ---
 
