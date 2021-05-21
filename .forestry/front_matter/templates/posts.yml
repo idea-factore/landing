@@ -35,5 +35,3 @@ fields:
     min: 
     max: 
   label: tags
-pages:
-- src/posts/test-blog-post.md
