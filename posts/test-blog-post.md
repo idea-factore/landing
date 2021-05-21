@@ -1,6 +1,5 @@
 ---
 tags:
-- post
 - new content
 layout: post
 title: Test Blog Post
