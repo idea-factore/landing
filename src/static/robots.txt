@@ -1,0 +1,4 @@
+Sitemap: https://www.idea-factory.co/sitemap.xml
+
+User-agent: *
+Disallow:
