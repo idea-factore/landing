@@ -21,10 +21,6 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 - name: layout
   type: text
   config:
@@ -32,5 +28,12 @@ fields:
   label: layout
   default: post
   hidden: true
+- name: tags
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: tags
 pages:
 - src/posts/test-blog-post.md
