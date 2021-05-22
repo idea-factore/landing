@@ -1,7 +1,8 @@
 ---
 layout: post.njk
 title: The flaws of traditional startup incubators
-description: Why decentralized alternatives
+description: Why decentralized alternatives can potentially lead to higher success
+  rates
 datetime: 2021-05-01T21:20:00Z
 tags:
 - incubators
@@ -14,4 +15,6 @@ The traditional startup incubator is modelled in such a way that the main way th
 
 So what does this have to do with centralization? I'm glad you asked. Since a traditionally startup incubator is a company, that means that they need to make money, and because it's centralized, any profit or loss rests solely on the incubator. In other words, **traditional startup incubators are less likely to take risks in order to not to loss money.** Even if company with a great product or idea applies, that doesn't necessarily mean that they will get incubated, depending on the risk and what the incubator decides. In my opinion, the companies and startups that actually need help from incubators, are less likely to get it because of the above.
 
-Next, let's examine why a large majority of startups fail. The main reason a startup fails is lack of product-market fit. What is product-market fit? Product-market fit means being in the right market, while providing a product that the market is looking for. Basically, your customers should be selling your product for you, instead of you trying to sell the product to them. It is hard to know if you have product-market fit, until you actually launch your product. So how can an incubator determine the value of a startup if they aren't even the ones that will be using the product? I'm sure they can make a pretty good guess, but 
+Next, let's examine why a large majority of startups fail. The main reason a startup fails is lack of product-market fit. What is product-market fit? Product-market fit means being in the right market, while providing a product that the market is looking for. Basically, your customers should be selling your product for you, instead of you trying to sell the product to them. It is hard to know if you have product-market fit, until you actually launch your product. So how can an incubator determine the value of a startup if they aren't even the target user base for the startup? 
+
+In comparison, a decentralized incubator is completely **community funded and driven** and should try to mix the best from both startup incubators and crowdfunding models.  So instead of an incubator trying to determine the value of your product, you have a community of potential users who will determine the value of your product. This leads to, hopefully, a larger user base, better product-market fit, and better feedback and advice for your product while at the same time, getting the same support that you would from a traditional startup. 
