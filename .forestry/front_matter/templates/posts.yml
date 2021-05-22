@@ -36,4 +36,4 @@ fields:
     max: 
   label: tags
 pages:
-- src/posts/test-blog-post.md
+- src/posts/the-flaws-of-traditional-startup-incubators.md
