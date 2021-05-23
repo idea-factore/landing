@@ -7,12 +7,12 @@
   {
     "title": "Community Governance",
     "icon": "fas fa-gavel",
-    "content": "Idea Factory is driven by our governance token, called VOTE, which allows community members to vote on which Idea proposals to accept, as well as which Ideas should receive funding, and how rewards are distributed"
+    "content": "Idea Factory is driven by our governance token, called VOTE, which allows community members to vote on which Idea proposals to accept, as well as which Ideas should receive funding, and how rewards are distributed. The price of VOTE is determined by total amount of funds given to Ideas / total amount of Ideas."
   },
   {
     "title": "Unique Token for each Idea",
     "icon": "fab fa-ethereum",
-    "content": "Every Idea that makes it passed the proposal stage, has it's own token with a name and icon decided by the creator. When a user provides funds to that Idea, they get an equlivalent amount of tokens representing that amount"
+    "content": "Every Idea that makes it passed the proposal stage, has it's own token with a name and icon decided by the creator. When a user provides funds to that Idea, they get an equlivalent amount of tokens representing that amount. Idea tokens are designed in such a way as to incentive users to vote on ideas early! At any time, with some restrictions, users can vote to liqudate an Idea in order to recover funds from that Idea!"
   },
   {
     "title": "Community Contributions",
