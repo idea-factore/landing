@@ -36,4 +36,5 @@ fields:
     max: 
   label: tags
 pages:
+- src/posts/idea-factory-update-1.md
 - src/posts/the-flaws-of-traditional-startup-incubators.md
